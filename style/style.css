@@ -1,0 +1,14 @@
+/* full margin & padding Call */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+.content{
+    display: flex;
+}
+.title{
+    margin-top: 50px;
+    padding: 20px;
+}
