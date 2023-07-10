@@ -7,8 +7,36 @@
 }
 .content{
     display: flex;
+    /* margin-top: 70px; */
+    height: 100vh;
+    background-color: #ffe5e5;
+    padding: 5px;
 }
 .title{
-    margin-top: 50px;
+    margin-top: 45px;
     padding: 20px;
+    text-align: none;
+    margin-bottom: 45px;
+}
+.content-title{
+    font-size: 60px;
+    margin-bottom: 50px;
+
+}
+.p1{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+.pngwing10{
+    width: 525px;
+
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
 }
