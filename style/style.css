@@ -40,3 +40,28 @@
     font-weight: 700;
     padding: 15px 35px;
 }
+.layout{
+    text-align: center;
+    margin: 100px;
+}
+.flower-layout{
+    font-size: 50px;
+    margin-top: 130px;
+}
+.Pink-Flower-Tree{
+    border: 5px solid  #E55473;
+    border-radius: 1550px 1550px 40px 40px;
+    width: 390px;
+    height: 435px;
+    display: inline-block;
+    text-align: center;
+}
+.content-our-featured-flowers{
+    text-align: center;
+    word-wrap: 50px;
+    word-wrap: initial;
+    
+}
+.content-our-featured-flowers > .Pink-Flower-Tree{
+    margin-top: 10px;
+}
