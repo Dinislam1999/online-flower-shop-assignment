@@ -108,7 +108,37 @@
     justify-content: center;
     width: 100%;
     margin-top: 10px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     margin-left: 0;
     margin-right: 0;
+}
+
+.text-wrapper{
+    width: 1440px;
+    height: 449px;
+    text-align: center;
+    position: relative;
+    border-radius: 5px;
+    align-items: center;
+    font-size: large;
+}
+.p-wrapper{
+    text-align: center;
+    position: relative;
+    border-radius: 5px;
+    align-items: center;
+    font-size: large;
+}
+.text-wrapper-email{
+    text-align: center;
+}
+.text-subscibe{
+    text-align: center;
+}
+.flower-shop-footer{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 900;
 }
