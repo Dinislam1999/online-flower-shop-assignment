@@ -136,9 +136,24 @@
     text-align: center;
 }
 .flower-shop-footer{
-    margin-top: 100px;
-    margin-bottom: 20px;
+    margin-top: 500px;
+    margin-bottom: 0;
     text-align: center;
     font-size: 28px;
     font-weight: 900;
+    width: 100%;
+    color: white;
+    background-color: black;
+}
+.p-wrapper{
+    font-size: 15px;
+    font-weight: 400;
+    padding: 05px;
+    color: rgb(235, 231, 231);
+}
+.copye-right{
+    padding: 10px;
+    font-size: 10px;
+    font-weight: 200px;
+    color:rgb(179, 177, 177);
 }
